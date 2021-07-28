@@ -6,7 +6,7 @@ Create an Invisible cloak using openCV.
 
 The invisible cloak is based on the principle of color detection and segmentation. 
 
-Here green color cloth  is used but any othe single color cloth can be used by resolving its HSV.
+Here green color cloth  is used but any other single color cloth can be used by resolving its HSV.
 
 For detailed list visit [here](https://www.rapidtables.com/convert/color/hsv-to-rgb.html).
 
